@@ -68,9 +68,11 @@ StairSpec CodeVibe bridges physical structural engineering constraints with clie
     npm install
     
  4. **Configure Environment Variables (Optional)**
+    ```bash
     REACT_APP_UNSPLASH_ACCESS_KEY
     
  6. **Start the local development server**
+    ```bash
     npm start
     
 ## 🧑🏻‍💻 Author
