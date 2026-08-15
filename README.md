@@ -81,4 +81,5 @@ Esteban Garcia
 Full-Stack Software Engineer
 
 LinkedIn: linkedin.com/in/esteban-garcia-esparza
+
 GitHub: github.com/egarciatx87
