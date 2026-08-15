@@ -62,6 +62,16 @@ StairSpec CodeVibe bridges physical structural engineering constraints with clie
    ```bash
    git clone [https://github.com/egarciatx87/StairSpec-CodeVibe.git](https://github.com/egarciatx87/StairSpec-CodeVibe.git)
    cd StairSpec-CodeVibe
+
+ 2. **Install dependencies**
+    npm install
+    
+ 4. **Configure Environment Variables (Optional)**
+    REACT_APP_UNSPLASH_ACCESS_KEY
+    
+ 6. **Start the local development server**
+    npm start
+    
 ## 🧑🏻‍💻 Author
 Esteban Garcia
 
