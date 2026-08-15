@@ -64,6 +64,7 @@ StairSpec CodeVibe bridges physical structural engineering constraints with clie
    cd StairSpec-CodeVibe
 
  2. **Install dependencies**
+    ```bash
     npm install
     
  4. **Configure Environment Variables (Optional)**
