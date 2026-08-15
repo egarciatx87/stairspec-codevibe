@@ -62,3 +62,10 @@ StairSpec CodeVibe bridges physical structural engineering constraints with clie
    ```bash
    git clone [https://github.com/egarciatx87/StairSpec-CodeVibe.git](https://github.com/egarciatx87/StairSpec-CodeVibe.git)
    cd StairSpec-CodeVibe
+## 🧑🏻‍💻 Author
+Esteban Garcia
+
+Full-Stack Software Engineer
+
+LinkedIn: linkedin.com/in/esteban-garcia-esparza
+GitHub: github.com/egarciatx87
