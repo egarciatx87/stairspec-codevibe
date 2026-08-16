@@ -1,6 +1,6 @@
 # 🪜 StairSpec CodeVibe
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Application-brightgreen?style=for-the-badge&logo=vercel)](https://stairspec.demo)
+[![Live Demo](https://img.shields.io/badge/Demo-Video%20Demo-brightgreen?style=for-the-badge&logo=vercel)](https://stairspec.demo)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/egarciatx87/StairSpec-CodeVibe)
 
 > **Precision React application engineered for independent stair construction contractors to evaluate International Residential Code (IRC) structural safety compliance on-site while dynamically curating client architectural mood boards.**
